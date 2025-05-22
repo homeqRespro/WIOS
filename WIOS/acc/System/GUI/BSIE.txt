@@ -1,0 +1,10 @@
+@echo off
+color f1
+echo.
+echo.
+echo.
+echo                                                                                 WIOS
+echo.
+echo                                                                       Oopss...
+echo.
+echo.

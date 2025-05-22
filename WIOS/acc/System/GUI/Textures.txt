@@ -1,0 +1,42 @@
+echo                                             -=============================================================-
+echo.
+echo                                                                         ACC MNG 
+echo.
+echo                                                                    none - Enter to nickname
+echo                                                              newAccount - Create to new account     
+echo.
+echo                                             -=============================================================-  
+
+
+
+
+echo                                             -=============================================================-
+echo.                        
+echo.                                                                          WIOS
+echo.
+echo                                                         SYSTEMBAT COMPAT REWINDS_PRO VERSION 1.0
+echo.
+echo.                                                          CURRENT DATE:
+echo.
+echo                                             -=============================================================-
+echo.
+echo.
+echo                                                                      1 - START PROGRAM
+echo.
+echo                                                                      2 - CONSOLE
+echo.
+echo                                                                      3 - SETTING
+echo.
+echo                                                                      4 - ABOUT
+echo.
+echo                                                                      5 - PLUGINS LIST
+echo.
+echo                                                                      6 - FILE MANEGER
+echo.
+echo                                                                      7 - INTERNET
+echo.
+echo                                                                      8 - EXIT
+echo.
+echo.
+echo                                             -=============================================================-
+
